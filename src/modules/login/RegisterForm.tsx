@@ -136,7 +136,7 @@ const RegisterForm = ({ done }: IProps) => {
         <Grid spacing={2} container className="min-width-100">
           <Grid item xs={12}>
             <Box pt={2}>
-              <Typography variant="caption">Basic Kenneth Data</Typography>
+              <Typography variant="caption">Basic Data</Typography>
             </Box>
             <Divider />
           </Grid>
